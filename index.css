@@ -1,0 +1,37 @@
+*:focus {
+    outline: none;
+}
+
+.task{
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+.content{
+    background-color: purple ;
+    padding: 10px;
+    border-radius: 60px;
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.edit{
+    background-color: rgb(30, 114, 173);
+    width: 56px;
+    position: relative;
+    right: -1080px;
+    top: -35px;
+}
+
+.delete{
+    background-color: red;
+    width: 56px;
+    position: relative;
+    right: -1100px;
+    top: -35px;
+}
+
+.text{
+    background-color: purple;
+}
